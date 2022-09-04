@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tower Defense/Scenes/MainMenu.unity
+    guid: d0c03002c48ac38419aeee9a736d95f7
+  - enabled: 1
+    path: Assets/Tower Defense/Scenes/LevelSelect.unity
+    guid: ef2359762e97de147a75d69df499c70e
+  - enabled: 1
+    path: Assets/Tower Defense/Scenes/Level01.unity
+    guid: 006d83d3e38bd1c46bde2816fbb58638
+  - enabled: 1
+    path: Assets/Tower Defense/Scenes/Level02.unity
+    guid: bec4f45efc500e648bf03f944be6b97a
   m_configObjects: {}
